@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "tsc": "tsc",
-    "dev": "ts-node-dev src/index.ts"
+    "part-one": "ts-node-dev src/part-one/exercises.ts",
+    "part-two": "ts-node-dev src/part-two/exercises.ts"
   },
   "keywords": [],
   "author": "",
